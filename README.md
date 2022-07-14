@@ -22,5 +22,9 @@ Here are some ideas to get you started:
 - :globe_with_meridians: Check my [Portfolio Website](https://illumine69.github.io/Portfolio-Website/)
 - :telephone_receiver: Email: sanskarmittal2002@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=illumine69&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=illumine69&layout=compact&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=illumine69&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=illumine69&layout=compact&theme=tokyonight" />
+</a>
