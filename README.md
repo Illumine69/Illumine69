@@ -16,7 +16,7 @@
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=illumine69&color=39BCAD" />
 </p>
-
+[![@illumine's Holopin board](https://holopin.me/illumine)](https://holopin.io/@illumine)
 <!--
 **Illumine69/Illumine69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
