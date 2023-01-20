@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I am Sanskar Mittal
-- :mortar_board: Studying Computer Science and Engineering in IIT Kharagpur, India
+- :mortar_board: Studying Computer Science and Engineering at IIT Kharagpur, India
 - :computer: Learning different languages with interest in Artificial Intelligence, Algorithm and Deep Learning
 - :telescope: Passion for astronomy and theoretical physics
 - :globe_with_meridians: Check my [Portfolio Website](https://illumine69.github.io/Portfolio-Website/)
