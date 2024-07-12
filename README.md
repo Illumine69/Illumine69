@@ -5,6 +5,7 @@
 - :telescope: Passion for astronomy and theoretical physics
 - :globe_with_meridians: Check my [Portfolio Website](https://illumine69.github.io/Portfolio-Website/)
 - :telephone_receiver: Email: sanskarmittal2002@gmail.com
+- 📖 [IITKGP Academic Material](https://iitkgpacin-my.sharepoint.com/:f:/g/personal/sanskarmittal2002_kgpian_iitkgp_ac_in/EhhkjBbBdslPmwymoFhti9MBnC8850VJ_tZutF14ef7CQw)
 
 [![@illumine's Holopin board](https://holopin.me/illumine)](https://holopin.io/@illumine)
 <p align="center">
